@@ -1,6 +1,6 @@
 # Arch
 ### Installation Guidelines
-- [Omarchy Dual Boot Setup](#omarchy-dual-boot-setup)
+- [Arch](#arch)
     - [Installation Guidelines](#installation-guidelines)
   - [Dual Boot](#dual-boot)
     - [Requirements](#requirements)
@@ -155,9 +155,10 @@ exit
 umount -lR /mnt
 shutdown now
 ```
-Eject USB
-Opened Omarchy check notifications and click Update System  
+Eject USB  
 yeeeesssss its finish... no
+
+### Dual Boot Configuration
 
 - Select : Advanced options for Arch Linux
 - Restart PC and press bios key
