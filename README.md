@@ -202,4 +202,4 @@ sudo reboot now
       ```
     - C:
       - `Right Click` and select `Extend Volume` and follow the instructions
-- Successfully Deleted Arch and Dual boot
+- Successfully Deleted Arch and Dual boot 
